@@ -1,4 +1,3 @@
-/* Write your code here: */
 h1, h2 {
     color: blueviolet;
 }
@@ -14,7 +13,7 @@ h1, h2 {
 li.done {
     color: green;
 }
- /* fix this  */
-.done.box p {
+
+ul p.done{
     font-size: 0.5rem;
 }
