@@ -1,2 +1,2 @@
 # web-dev-exercises
-Exercises from the course 100 days of code and more
+Exercises from the course 'web development bootcamp' - Dr.Amgela.Yu
